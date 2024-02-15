@@ -1,0 +1,27 @@
+﻿Abbr.,Chatbot Functionalities,Settings Editor,Help System,Titled Sections,Cards,Carousel,Button Groups,Action Panel,Preview,Spinners and Loading Indicators
+C1,Simple Message,.,t,X,.,.,.,t,.,.
+C2,Simple Image,.,t,X,t,t,.,.,.,.
+C3,Suggestions or quick replies,.,t,t,t,.,X,t,.,.
+C4,Card,.,t,X,X,,.,t,t,.
+C5,Carousel,.,t,.,t,X,.,.,.,.
+C6,Persistent Menu,X,t,.,.,.,.,.,.,.
+S1,Showing the main feature on the first message,.,X,O,.,.,.,.,.,.
+S2,Guiding the user through a short tutorial during first messages,.,X,O,.,.,.,.,.,.
+S3,Suggesting the next possible set of actions to the user,.,X,O,O,O,O,.,.,.
+S4,Having a persistent menu with main features,O,X,.,.,.,.,.,.,.
+S5,Sending the main menu with main features as message,.,X,O,O,O,O,X,.,.
+S6,Having a list of available commands,.,X,O,.,.,.,X,.,.
+S7,Offering contextual help about a feature,.,X,O,.,.,.,X,.,.
+S8,Showing the main menu or the most frequent features when the user asks for help,.,X,O,O,O,O,O,.,.
+S9,Showing the main menu or main features when user says something the chatbot cannot understand,.,X,O,O,O,O,O,.,.
+R1,Files,.,.,X,.,.,.,.,.,.
+R2,Audio,.,.,X,.,.,.,.,.,.
+R3,Video,.,.,X,.,.,.,.,.,.
+R4,Images,.,,X,t,t,.,t,.,.
+R5,Buttons,.,t,t,t,t,X,t,.,.
+R6,Templates,.,.,X,X,t,.,t,t,.
+R7,Links,.,.,t,.,.,t,.,t,.
+R8,Emojis,.,.,t,.,.,.,.,.,.
+R9,Persistent menus,X,t,.,.,.,.,.,.,.
+R10,Typing indications,.,.,.,.,.,.,.,.,X
+R11,Webviews,.,.,X,.,.,.,.,X,.

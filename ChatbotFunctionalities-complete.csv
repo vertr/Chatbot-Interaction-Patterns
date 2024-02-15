@@ -1,0 +1,30 @@
+Chatbot Functionality,Source,Functionality Group (as named by authors)
+Simple Message,Valerio et al. (2018),Sign Classes
+Simple Image,Valerio et al. (2018),Sign Classes
+Suggestions or quick replies,Valerio et al. (2018),Sign Classes
+Card,Valerio et al. (2018),Sign Classes
+Carousel,Valerio et al. (2018),Sign Classes
+Persistent Menu,Valerio et al. (2018),Sign Classes
+Showing the main feature on the first message,Valerio et al. (2018),Strategies
+Guiding the user through a short tutorial during first messages,Valerio et al. (2018),Strategies
+Suggesting the next possible set of actions to the user,Valerio et al. (2018),Strategies
+Having a persistent menu with main features,Valerio et al. (2018),Strategies
+Sending the main menu with main features as message,Valerio et al. (2018),Strategies
+Having a list of available commands,Valerio et al. (2018),Strategies
+Offering contextual help about a feature,Valerio et al. (2018),Strategies
+Showing the main menu or the most frequent features when the user asks for help,Valerio et al. (2018),Strategies
+Showing the main menu or main features when user says something the chatbot cannot understand,Valerio et al. (2018),Strategies
+Showing the persistent menu instead of a textinput box,Valerio et al. (2018),Strategies
+Highlighting the most important features,Valerio et al. (2018),Strategies
+Files,Shevat (2017),Rich Interactions
+Audio,Shevat (2017),Rich Interactions
+Video,Shevat (2017),Rich Interactions
+Images,Shevat (2017),Rich Interactions
+Buttons,Shevat (2017),Rich Interactions
+Templates,Shevat (2017),Rich Interactions
+Links,Shevat (2017),Rich Interactions
+Emojis,Shevat (2017),Rich Interactions
+Persistent menus,Shevat (2017),Rich Interactions
+Typing indications,Shevat (2017),Rich Interactions
+Slash commands,Shevat (2017),Rich Interactions
+Webviews,Shevat (2017),Rich Interactions
