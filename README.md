@@ -1,6 +1,7 @@
 # Chatbot-Interaction-Patterns - Online Appendix
 
-This is the online appendix of the submitted paper "Interaction Design Patterns of Web Chatbots" for ICWE 2024.
+This is the online appendix of the published paper "Interaction Design Patterns of Web Chatbots" for ICWE 2024:
+Traubinger, V., Gaedke, M. (2024). Interaction Design Patterns of Web Chatbots. In: Stefanidis, K., Systä, K., Matera, M., Heil, S., Kondylakis, H., Quintarelli, E. (eds) Web Engineering. ICWE 2024. Lecture Notes in Computer Science, vol 14629. Springer, Cham. https://doi.org/10.1007/978-3-031-62362-2_22
 
 The repository includes the following files:
 The lists for the included [chatbot functionalities][funct] and the [interaction design patterns][pat], both including the descriptions for the categories 'Situation', 'Intention' and 'Implementation', which were compared in the mapping process. The descriptions for the interaction design patterns were summarized for easier handling by ChatGPT (see paper).
